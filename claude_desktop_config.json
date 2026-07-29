@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+        "tldr-guarded": {
+            "command": "infinity-mcp-protect",
+            "args": [
+                "node",
+                "C:\\Users\\{lakera}\\dist\\index.js"
+            ],
+            "env": {
+                "LAKERA_API_KEY": "{key}"
+            }
+        }
+  }
+}
